@@ -1,2 +1,2 @@
 # DemoGIt
-This is my clone project
+This is my clone project on github desktop
